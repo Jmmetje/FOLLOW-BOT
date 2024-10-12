@@ -1,2 +1,2 @@
 # Twitch-follow-bot
-# Problem dm discord (cosney)
+# Problem dm discord (jessem2009)
